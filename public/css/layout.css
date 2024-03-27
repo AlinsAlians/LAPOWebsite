@@ -476,8 +476,21 @@ input[type="radio"]{
     text-align: center;
 }
 
+.programs h1{
+    padding-top: 40px;
+}
 
+.programs p{
+    margin-bottom: 15px;
+}
+.breaker-2{
+    height: 2px;
+    width: 90%;
+    background-color: #a9a9a9;
+    margin: auto;
+    box-shadow: 0 0 2px rgba(0, 0, 0, .25);
 
+}
 
 /* programs ends */
 
